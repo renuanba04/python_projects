@@ -1,0 +1,95 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="YZ8gvAeSx-T5r9YrcAsB">
+    <mxGraphModel dx="1022" dy="660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-21" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-20" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="start" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-23" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-22" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="User guess a letter" vertex="1">
+          <mxGeometry height="60" width="120" x="360" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-25" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-24" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-28" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-27" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-22" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="letter in word?" vertex="1">
+          <mxGeometry height="80" width="80" x="380" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-26" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="490" />
+              <mxPoint x="670" y="190" />
+            </Array>
+            <mxPoint x="420" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-40" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-39" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-24" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="show the position of letter in the word" vertex="1">
+          <mxGeometry height="60" width="120" x="500" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-30" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-29" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-27" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="add parts to hangman" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-32" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="K9ZuVLkenM9ZbLyR0lhc-31" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-37" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="200" y="490" />
+              <mxPoint x="200" y="180" />
+              <mxPoint x="420" y="180" />
+            </Array>
+            <mxPoint x="420" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-29" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="is hangman hanging?" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="END" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="290" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="210" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-39" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="word found?" vertex="1">
+          <mxGeometry height="80" width="80" x="520" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-41" edge="1" parent="1" source="K9ZuVLkenM9ZbLyR0lhc-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.897;entryY=0.047;entryDx=0;entryDy=0;entryPerimeter=0;" target="K9ZuVLkenM9ZbLyR0lhc-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="yes" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="K9ZuVLkenM9ZbLyR0lhc-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="no" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
